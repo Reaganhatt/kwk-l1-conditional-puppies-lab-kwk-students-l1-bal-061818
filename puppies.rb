@@ -28,7 +28,7 @@ def some_puppies(int, max)
   end
 end
 
-some_puppies(14)
+some_puppies(14, 3)
     
 
 
