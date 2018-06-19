@@ -20,13 +20,13 @@ def less_puppies(int)
 end
 less_puppies(9)
 # 3. We've decided to give Rachel a little more control over her puppy obsession. Write a method called some_puppies that takes in two arguments - the number of puppies she has found and a maximum puppy allowance. This method should tell Rachel good job if she gets less than half her maximum allowance and to get back on her puppy restriction when she exceeds her maximum.
-def some_puppies(int)
-  foundpuppies.gets.chomp
-  if int > some_puppies
-    puts "Get back on your puppy restriction Rachel"
-  elsif int 1/2 some_puppies
-    puts "Good job Rachel."
-  end
+#def some_puppies(int)
+ # foundpuppies.gets.chomp
+ # if int > some_puppies
+  #  puts "Get back on your puppy restriction Rachel"
+  #elsif int 1/2 some_puppies
+ #   puts "Good job Rachel."
+ # end
 end
 
 some_puppies(14)
