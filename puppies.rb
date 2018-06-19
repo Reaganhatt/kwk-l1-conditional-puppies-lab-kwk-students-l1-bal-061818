@@ -26,9 +26,9 @@ less_puppies(9)
   #else 
     #puts "Good job Rachel."
  # end
-end
+#end
 
-some_puppies(2, 1)
+#some_puppies(2, 1)
     
 
 
@@ -43,5 +43,7 @@ def new_animal(int,int_2)
     puts "Good job, Rachel."
   end
 end
+
+new_animal(3,1)
 
 
