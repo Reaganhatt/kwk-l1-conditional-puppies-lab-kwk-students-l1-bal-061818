@@ -23,7 +23,7 @@ less_puppies(9)
 def some_puppies(int, max)
   if int > 3 && max >= 3 
     puts "Get back on your puppy restriction Rachel"
-  else int
+  else 
     puts "Good job Rachel."
   end
 end
